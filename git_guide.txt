@@ -15,7 +15,7 @@
 	|-- git remote set-url origin <link>
 	|-- git remote remove origin
 |-- tambah file/directory terbaru
-	|-- if empy
+	|-- if empty
 		|-- git init .
 	|-- if add new file
 		|-- touch filename.extention
