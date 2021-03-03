@@ -23,6 +23,7 @@
 		|-- touch filename.extention
 		|-- git add .
 		|-- git commit -m "tulis comment"
+		|-- remote
 		|-- git push origin main (main adalah nama branch)
 
 ---- Terima kasih ^_^
