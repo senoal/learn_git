@@ -10,6 +10,10 @@
 	|-- git status
 
 |-- git bash here (directory) 
+|-- git remote
+	|-- git remote -v
+	|-- git remote set-url origin <link>
+	|-- git remote remove origin
 |-- tambah file/directory terbaru
 	|-- if empy
 		|-- git init .
