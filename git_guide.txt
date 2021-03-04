@@ -27,4 +27,4 @@
 		|-- remote
 		|-- git push origin main (main adalah nama branch)
 
----- Terima kasih ^_^
+---- Terima kasih ^_^ 
