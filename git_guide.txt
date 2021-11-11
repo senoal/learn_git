@@ -26,5 +26,6 @@
 		|-- git commit -m "tulis comment"
 		|-- remote
 		|-- git push origin main (main adalah nama branch)
+	https://stackoverflow.com/questions/12799719/how-to-upload-a-project-to-github/12800042
 
 ---- Terima kasih ^_^ 
